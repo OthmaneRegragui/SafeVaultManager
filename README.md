@@ -12,7 +12,15 @@
         Linux
       </td>
       <td>
+        <a href="https://github.com/OthmaneRegragui/SafeVaultManager/blob/main/Linux/SVM?raw=true">14.5 MB</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         Windows
+      </td>
+      <td>
+        <a href="https://github.com/OthmaneRegragui/SafeVaultManager/blob/main/Windows/SVM.exe?raw=true">10.8 MB</a>
       </td>
     </tr>
   </tbody>
